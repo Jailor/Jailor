@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! I am Andrei Pelle
 
-<!--
-**Jailor/Jailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year computer science student at the Technical University of Cluj Napoca with a passion for the latest things in tech and software,
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- I'm currently working on various school projects, and always seeking a new challenge!
+- My most important projects can be viewed on my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills & Interests
+- Java programming
+- Software engineering
+- Arduino and microcontrollers
+- Computer hardware and building custom PCs
+
+## 👷‍♀️ Collaboration
+
+I am always interested in collaborating on exciting projects and working with others to improve my skills. If you have any projects or ideas that you would like to discuss, feel free to reach out to me. Additionally, I'm currently looking for an internship opportunity to further improve my skills and gain practical experience beyond academia. All my contact information is public on my profile.
