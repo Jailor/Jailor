@@ -12,6 +12,6 @@ I am a 3rd year computer science student at the Technical University of Cluj Nap
 - Arduino and microcontrollers
 - Computer hardware and building custom PCs
 
-## 👷‍♀️ Collaboration
+## 👨‍💻 Collaboration
 
 I am always interested in collaborating on exciting projects and working with others to improve my skills. If you have any projects or ideas that you would like to discuss, feel free to reach out to me. Additionally, I'm currently looking for an internship opportunity to further improve my skills and gain practical experience beyond academia. All my contact information is public on my profile.
