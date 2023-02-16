@@ -3,7 +3,7 @@
 I am a 3rd year computer science student at the Technical University of Cluj Napoca with a passion for the latest things in tech and software.
 
 ## 🔭 Current Projects
-- I'm currently working on various school projects, and always seeking a new challenge!
+- I'm currently working on various school and personal projects, and always seeking a new challenge!
 - My most important projects can be viewed on my profile
 
 ## 🌱 Skills & Interests
