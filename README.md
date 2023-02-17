@@ -11,6 +11,7 @@ I am a 3rd year computer science student at the Technical University of Cluj Nap
 - Software engineering
 - Arduino and microcontrollers
 - Computer hardware and building custom PCs
+- Computer Graphics
 
 ## 👨‍💻 Collaboration
 
